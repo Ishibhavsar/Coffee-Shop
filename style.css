@@ -409,7 +409,7 @@ span.swiper-pagination-bullet.swiper-pagination-bullet-active::after {
 .data {
   width: 100%;
   height: 50vh;
-  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.3)),
+  background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),
     url(images/image7.jpg) center no-repeat;
   background-size: cover;
   display: flex;
